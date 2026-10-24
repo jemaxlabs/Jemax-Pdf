@@ -1,0 +1,16 @@
+{
+  "name": "Jemax PDF - Free PDF Tools",
+  "short_name": "Jemax PDF",
+  "description": "Jemax PDF - Merge, Split, Compress PDF free offline",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/337/337946.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
